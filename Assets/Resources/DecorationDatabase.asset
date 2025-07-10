@@ -1,0 +1,433 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10479f36fc329ef478c5edcaddc2fa7f, type: 3}
+  m_Name: DecorationDatabase
+  m_EditorClassIdentifier: 
+  freeAndPremiumDecorations:
+  - Wooden Park Bench (Brown)
+  - Wooden Park Bench (White)
+  - Stone Bench (Granite)
+  - Stone Bench (Marble)
+  - Classic Street Lamp (Black)
+  - Classic Street Lamp (Silver)
+  - Flower Bed (Tulips)
+  - Flower Bed (Daisies)
+  - Flower Bed (Sunflowers)
+  - Flower Bed (Wildflowers)
+  - Shrubbery (Boxwood)
+  - Shrubbery (Simple Topiary)
+  - Decorative Tree (Maple)
+  - Decorative Tree (Pine)
+  - Decorative Tree (Birch)
+  - Decorative Tree (Cherry Blossom)
+  - Potted Plant (Ceramic)
+  - Potted Plant (Wooden)
+  - Hanging Flower Basket (Pink)
+  - Hanging Flower Basket (Yellow)
+  - Playground Set (Swings)
+  - Playground Set (Slide)
+  - Playground Set (Seesaw)
+  - Sandbox (Classic)
+  - Sandbox (Castle-Shaped)
+  - Birdbath (Stone)
+  - Birdbath (Ceramic)
+  - Small Fountain (Tiered)
+  - Small Fountain (Animal-Shaped)
+  - Cobblestone Path (Gray)
+  - Cobblestone Path (Red)
+  - Brick Walkway (Classic)
+  - Brick Walkway (Herringbone)
+  - White Picket Fence
+  - Hedge (Green)
+  - Hedge (Flowering)
+  - Bicycle Rack (Classic)
+  - Bicycle Rack (Modern)
+  - Mailbox (Red)
+  - Mailbox (Blue)
+  - Trash Bin (Recycling)
+  - Trash Bin (Compost)
+  - Directional Signpost (Wooden)
+  - Directional Signpost (Metal)
+  - Picnic Blanket (Plaid)
+  - Picnic Blanket (Striped)
+  - Outdoor Clock (Tower)
+  - Outdoor Clock (Wall-Mounted)
+  - Garden Gnome (Classic)
+  - Garden Gnome (Painted)
+  - Decorative Bridge (Wooden)
+  - Decorative Bridge (Stone)
+  - Bulletin Board
+  - Market Stall (Fruit)
+  - Market Stall (Flowers)
+  - Market Stall (Crafts)
+  - Food Truck (Ice Cream)
+  - Food Truck (Coffee)
+  - Public Art Installation (Simple Sculpture)
+  - Seasonal Decoration (Holiday Tree)
+  - Seasonal Decoration (Pumpkin)
+  - Seasonal Decoration (Snowman)
+  - Banner (Blue)
+  - Banner (Red)
+  - Banner (Green)
+  - Dog Fountain
+  - Pet Station
+  - Rock Garden (Mossy)
+  - Rock Garden (Succulent)
+  - Water Lily Pond
+  - Stepping Stones (Leaf-Shaped)
+  - Stepping Stones (Paw Print)
+  - Mosaic Tile Plaza (Simple)
+  - Playground Sandbox (Pirate Ship)
+  - Playground Sandbox (Castle)
+  - Chess Table (Stone)
+  - Chess Table (Wood)
+  - Bulletin Board (Community)
+  - Newsstand
+  - Public Bench (Metal)
+  - Public Bench (Wood)
+  - Flower Archway
+  - Small Gazebo (Wooden)
+  - Small Gazebo (White)
+  - Pergola (Vine-Covered)
+  - Hammock (Striped)
+  - Hammock (Solid)
+  - Outdoor Bean Bag (Blue)
+  - Outdoor Bean Bag (Green)
+  - Outdoor Pouf (Yellow)
+  - Lantern Post (Paper)
+  - Lantern Post (Metal)
+  - Solar Garden Light (Flower)
+  - Solar Garden Light (Animal)
+  - Neon Sign (Star)
+  - Neon Sign (Heart)
+  - Playground Jungle Gym
+  - Playground Climbing Wall
+  - Playground Hopscotch Tiles
+  - Mini Soccer Goal
+  - Basketball Hoop
+  - Picnic Table (Classic)
+  - Picnic Table (Rainbow)
+  - Stone Wall (Mossy)
+  - Stone Wall (Painted)
+  - Bamboo Screen
+  - Wrought Iron Fence (Black)
+  - Wrought Iron Fence (Gold)
+  - Playground Sandbox (Dinosaur)
+  - Playground Sandbox (Spaceship)
+  - Playground Sandbox (Train)
+  - Playground Sandbox (Boat)
+  - Playground Sandbox (Car)
+  - Playground Sandbox (Rocket)
+  - Playground Sandbox (Castle)
+  - Playground Sandbox (Fort)
+  - Playground Sandbox (Treehouse)
+  - Playground Sandbox (Cottage)
+  - Playground Sandbox (Barn)
+  - Playground Sandbox (Windmill)
+  - Playground Sandbox (Lighthouse)
+  - Playground Sandbox (Igloo)
+  - Playground Sandbox (Tent)
+  - Playground Sandbox (Cabin)
+  - Playground Sandbox (Silo)
+  - Playground Sandbox (Tower)
+  - Playground Sandbox (Bridge)
+  - Playground Sandbox (Tunnel)
+  - Playground Sandbox (Maze)
+  - Playground Sandbox (Labyrinth)
+  - Playground Sandbox (Garden)
+  - Playground Sandbox (Orchard)
+  - Playground Sandbox (Vineyard)
+  - Playground Sandbox (Farm)
+  - Playground Sandbox (Ranch)
+  - Playground Sandbox (Stable)
+  - Playground Sandbox (Corral)
+  - Playground Sandbox (Paddock)
+  - Playground Sandbox (Arena)
+  - Playground Sandbox (Ring)
+  - Playground Sandbox (Track)
+  - Playground Sandbox (Field)
+  - Playground Sandbox (Court)
+  - Playground Sandbox (Pitch)
+  - Playground Sandbox (Green)
+  - Playground Sandbox (Fairway)
+  - Playground Sandbox (Rough)
+  - Playground Sandbox (Bunker)
+  - Playground Sandbox (Hazard)
+  - Playground Sandbox (Water Hazard)
+  - Playground Sandbox (Sand Trap)
+  - Playground Sandbox (Beach)
+  - Playground Sandbox (Shore)
+  - Playground Sandbox (Coast)
+  - Playground Sandbox (Harbor)
+  - Playground Sandbox (Port)
+  - Playground Sandbox (Dock)
+  - Playground Sandbox (Pier)
+  - Playground Sandbox (Wharf)
+  - Playground Sandbox (Quay)
+  - Playground Sandbox (Marina)
+  - Playground Sandbox (Slip)
+  - Playground Sandbox (Berth)
+  - Playground Sandbox (Mooring)
+  - Playground Sandbox (Anchorage)
+  - Playground Sandbox (Buoy)
+  - Playground Sandbox (Beacon)
+  - Playground Sandbox (Lighthouse)
+  - Playground Sandbox (Tower)
+  - Playground Sandbox (Spire)
+  - Playground Sandbox (Steeple)
+  - Playground Sandbox (Cupola)
+  - Playground Sandbox (Dome)
+  - Playground Sandbox (Turret)
+  - Playground Sandbox (Battlement)
+  - Playground Sandbox (Rampart)
+  - Playground Sandbox (Parapet)
+  - Playground Sandbox (Wall)
+  - Playground Sandbox (Fence)
+  - Playground Sandbox (Gate)
+  - Playground Sandbox (Door)
+  - Playground Sandbox (Window)
+  - Playground Sandbox (Shutter)
+  - Playground Sandbox (Blind)
+  - Playground Sandbox (Curtain)
+  - Playground Sandbox (Drape)
+  - Playground Sandbox (Shade)
+  - Playground Sandbox (Awning)
+  - Playground Sandbox (Canopy)
+  - Playground Sandbox (Umbrella)
+  - Playground Sandbox (Parasol)
+  - Playground Sandbox (Tent)
+  - Playground Sandbox (Pavilion)
+  - Playground Sandbox (Gazebo)
+  - Playground Sandbox (Pergola)
+  - Playground Sandbox (Arbor)
+  - Playground Sandbox (Trellis)
+  - Playground Sandbox (Lattice)
+  - Playground Sandbox (Screen)
+  - Playground Sandbox (Partition)
+  - Playground Sandbox (Divider)
+  - Playground Sandbox (Panel)
+  - Playground Sandbox (Board)
+  - Playground Sandbox (Plank)
+  - Playground Sandbox (Slat)
+  - Playground Sandbox (Strip)
+  - Playground Sandbox (Rod)
+  - Playground Sandbox (Pole)
+  - Playground Sandbox (Post)
+  - Playground Sandbox (Stake)
+  - Playground Sandbox (Peg)
+  - Playground Sandbox (Pin)
+  - Playground Sandbox (Bolt)
+  - Playground Sandbox (Screw)
+  - Playground Sandbox (Nail)
+  - Playground Sandbox (Rivet)
+  - Playground Sandbox (Clamp)
+  - Playground Sandbox (Clip)
+  - Playground Sandbox (Hook)
+  - Playground Sandbox (Ring)
+  - Playground Sandbox (Loop)
+  - Playground Sandbox (Eye)
+  - Playground Sandbox (Socket)
+  - Playground Sandbox (Plug)
+  - Playground Sandbox (Cap)
+  - Playground Sandbox (Cover)
+  - Playground Sandbox (Lid)
+  - Playground Sandbox (Top)
+  - Playground Sandbox (Bottom)
+  - Playground Sandbox (Base)
+  - Playground Sandbox (Foot)
+  - Playground Sandbox (Leg)
+  - Playground Sandbox (Arm)
+  - Playground Sandbox (Hand)
+  - Playground Sandbox (Finger)
+  - Playground Sandbox (Thumb)
+  - Playground Sandbox (Toe)
+  - Playground Sandbox (Heel)
+  - Playground Sandbox (Ankle)
+  - Playground Sandbox (Knee)
+  - Playground Sandbox (Hip)
+  - Playground Sandbox (Waist)
+  - Playground Sandbox (Chest)
+  - Playground Sandbox (Back)
+  - Playground Sandbox (Shoulder)
+  - Playground Sandbox (Neck)
+  - Playground Sandbox (Head)
+  - Playground Sandbox (Face)
+  - Playground Sandbox (Eye)
+  - Playground Sandbox (Ear)
+  - Playground Sandbox (Nose)
+  - Playground Sandbox (Mouth)
+  - Playground Sandbox (Lip)
+  - Playground Sandbox (Tooth)
+  - Playground Sandbox (Tongue)
+  - Playground Sandbox (Chin)
+  - Playground Sandbox (Cheek)
+  - Playground Sandbox (Forehead)
+  - Playground Sandbox (Brow)
+  - Playground Sandbox (Lash)
+  - Playground Sandbox (Lid)
+  - Playground Sandbox (Temple)
+  - Playground Sandbox (Jaw)
+  - Playground Sandbox (Throat)
+  - Playground Sandbox (Voice)
+  - Playground Sandbox (Adam's Apple)
+  - Playground Sandbox (Windpipe)
+  - Playground Sandbox (Esophagus)
+  - Playground Sandbox (Trachea)
+  - Playground Sandbox (Larynx)
+  - Playground Sandbox (Pharynx)
+  - Playground Sandbox (Epiglottis)
+  - Playground Sandbox (Vocal Cord)
+  - Playground Sandbox (Glottis)
+  - Playground Sandbox (Soft Palate)
+  - Playground Sandbox (Hard Palate)
+  - Playground Sandbox (Uvula)
+  - Playground Sandbox (Tonsil)
+  - Playground Sandbox (Adenoid)
+  - Playground Sandbox (Sinus)
+  - Playground Sandbox (Nostril)
+  - Playground Sandbox (Septum)
+  - Playground Sandbox (Bridge)
+  - Playground Sandbox (Tip)
+  - Playground Sandbox (Wing)
+  - Playground Sandbox (Ala)
+  - Playground Sandbox (Columella)
+  - Playground Sandbox (Vestibule)
+  - Playground Sandbox (Meatus)
+  - Playground Sandbox (Concha)
+  - Playground Sandbox (Turbinate)
+  - Playground Sandbox (Olfactory Bulb)
+  - Playground Sandbox (Olfactory Nerve)
+  - Playground Sandbox (Olfactory Epithelium)
+  - Playground Sandbox (Olfactory Receptor)
+  - Playground Sandbox (Olfactory Cilia)
+  - Playground Sandbox (Olfactory Gland)
+  - Playground Sandbox (Olfactory Tract)
+  - Playground Sandbox (Olfactory Cortex)
+  - Playground Sandbox (Olfactory Bulb)
+  - Playground Sandbox (Olfactory Nerve)
+  - Playground Sandbox (Olfactory Epithelium)
+  - Playground Sandbox (Olfactory Receptor)
+  - Playground Sandbox (Olfactory Cilia)
+  - Playground Sandbox (Olfactory Gland)
+  - Playground Sandbox (Olfactory Tract)
+  - Playground Sandbox (Olfactory Cortex)
+  premiumOnlyDecorations:
+  - Bioluminescent Flower Bed (Glowing Blue)
+  - Bioluminescent Flower Bed (Glowing Pink)
+  - Animated Topiary Animal (Rabbit)
+  - Animated Topiary Animal (Elephant)
+  - Crystal Tree (Amethyst)
+  - Crystal Tree (Sapphire)
+  - Crystal Tree (Emerald)
+  - Floating Bonsai Garden (Levitating)
+  - Giant Rainbow Mushroom (Oversized)
+  - Holographic Street Lamp (Color-Shifting)
+  - Gold-Plated Bench (Ornate)
+  - Marble Throne (Gem-Inlaid)
+  - Luxury Gazebo (Glass)
+  - Luxury Gazebo (Gold)
+  - Luxury Gazebo (Hanging Gardens)
+  - Interactive Playground (Musical)
+  - Interactive Playground (Themed)
+  - Miniature Waterfall (LED-Lit)
+  - Mystical Fountain (Dragon)
+  - Mystical Fountain (Phoenix)
+  - Mystical Fountain (Unicorn)
+  - Mosaic Tile Plaza (Animated)
+  - Floating Stepping Stones (Magical)
+  - Wrought Iron Fence (Glowing Runes)
+  - Bamboo Water Feature (Animated Birds)
+  - Seasonal Archway (Cherry Blossom)
+  - Seasonal Archway (Autumn Leaves)
+  - Seasonal Archway (Snow Crystal)
+  - Firework Launcher (Customizable)
+  - Neon Art Installation (Animated)
+  - Giant Crystal Obelisk (Pulsing Light)
+  - Animated Animal Statue (Fox)
+  - Animated Animal Statue (Dragon)
+  - Animated Animal Statue (Owl)
+  - Wind-Powered Kinetic Sculpture
+  - Floating Lantern (Release Animation)
+  - Fairy House (Animated)
+  - Fairy Portal (Sparkling)
+  - Mini Hot Air Balloon (Tethered)
+  - Luxury Food Truck (Neon)
+  - Interactive Digital Billboard
+  - Time-Travel Phone Booth (Glowing)
+  - Giant Gemstone Fountain
+  - Weather Control Station
+  - Pet Playground (Rare Animals)
+  - Fantasy Bridge (Crystal)
+  - Fantasy Bridge (Rainbow)
+  - Fantasy Bridge (Floating)
+  - Animated Parade Float (Seasonal)
+  - Customizable Hologram Statue (Avatar)
+  - Customizable Hologram Statue (Rare Creature)
+  - Floating Crystal Platform
+  - Animated Light Tunnel
+  - Magic Carpet Rest Area
+  - Floating Garden Island
+  - Aurora Borealis Projector
+  - Rainbow Waterfall
+  - Enchanted Treehouse
+  - Dragon Perch
+  - Phoenix Nest
+  - Unicorn Stable
+  - Mermaid Fountain
+  - Pegasus Statue
+  - Floating Lotus Pond
+  - Starlight Gazebo
+  - Moon Gate
+  - Sun Dial (Animated)
+  - Solar Flare Lamp
+  - Aurora Lamp Post
+  - Prism Archway
+  - Dreamcatcher Tree
+  - Floating Fairy Ring
+  - Magic Portal Gate
+  - Animated Rainbow Path
+  - Glowing Mushroom Circle
+  - Crystal Hedge Maze
+  - Floating Cloud Bench
+  - Animated Shooting Star Sculpture
+  - Holographic Butterfly Swarm
+  - Enchanted Willow Tree
+  - Floating Bubble Fountain
+  - Magic Mirror Pond
+  - Animated Aurora Bridge
+  - Floating Lantern Festival
+  - Celestial Observatory
+  - Starfall Fountain
+  - Aurora Borealis Arch
+  - Floating Dream Island
+  - Enchanted Rose Garden
+  - Magic Windmill
+  - Floating Balloon Arch
+  - Animated Firefly Grove
+  - Crystal Carousel
+  - Rainbow Slide
+  - Magic Swing Set
+  - Floating Spiral Staircase
+  - Animated Light Show Fountain
+  - Enchanted Maze
+  - Floating Star Platform
+  - Magic Tree Portal
+  - Animated Fairy Parade
+  - Floating Crystal Chandelier
+  - Dreamy Cloud Pathway
+  - Magic Rainbow Gate
+  - Animated Aurora Tunnel
+  - Floating Lotus Bridge
+  - Enchanted Crystal Garden
+  - Magic Star Fountain
+  - Animated Rainbow Carousel
+  - Floating Aurora Island
