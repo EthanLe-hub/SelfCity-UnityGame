@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c65b679ff03f24347936d79130e1b045
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dailyQuestsModalPanel: {instanceID: 0}
+  - modalTitle: {instanceID: 0}
+  - questListContainer: {instanceID: 0}
+  - questItemPrefab: {fileID: 6605825438252338061, guid: 2ee3714220a3a814e8b2bd0f97a41fa9, type: 3}
+  - timerText: {instanceID: 0}
+  - openDailyQuestsButton: {instanceID: 0}
+  - closeModalButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
