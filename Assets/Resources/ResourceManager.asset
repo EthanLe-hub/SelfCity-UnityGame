@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d8493b927622b744a9256607812c3b1, type: 3}
+  m_Name: ResourceManager
+  m_EditorClassIdentifier: 
+  initialResources:
+  - type: 0
+    amount: 0
+    displayName: Energy Crystals
+    icon: {fileID: 0}
+  - type: 1
+    amount: 0
+    displayName: Wisdom Orbs
+    icon: {fileID: 0}
+  - type: 2
+    amount: 0
+    displayName: Heart Tokens
+    icon: {fileID: 0}
+  - type: 3
+    amount: 0
+    displayName: Creativity Sparks
+    icon: {fileID: 0}
+  - type: 4
+    amount: 0
+    displayName: Balance Tickets
+    icon: {fileID: 0}
+  habitRewards:
+  - habitName: exercise
+    resource: 0
+    amount: 15
+  - habitName: hydration
+    resource: 0
+    amount: 5
+  - habitName: meditation
+    resource: 1
+    amount: 10
+  - habitName: journaling
+    resource: 1
+    amount: 10
+  - habitName: social_connection
+    resource: 2
+    amount: 20
+  - habitName: creative_hobby
+    resource: 3
+    amount: 20
+  OnResourceUpdated:
+    m_PersistentCalls:
+      m_Calls: []

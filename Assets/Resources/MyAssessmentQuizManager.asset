@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75df627b54d46f242ab082455ee2eaf9, type: 3}
+  m_Name: MyAssessmentQuizManager
+  m_EditorClassIdentifier: 
+  questions: []
+  questionsToShow: 12
+  healthHarborIcon: {fileID: -8781757214100938709, guid: e9cc9ca3ca278854884c7b4a5e53757d, type: 3}
+  mindPalaceIcon: {fileID: -93338099107550954, guid: 7cb3b205a56825543aa3fb459d8fe823, type: 3}
+  creativeCommonsIcon: {fileID: -7181532560860067662, guid: 9f21ce8c1c327174da4cb3a8a53bedee, type: 3}
+  socialSquareIcon: {fileID: 6258540315139505667, guid: cb5c8f5a3dfa807418643c65f52c55d8, type: 3}
+  defaultQuestions:
+  - questionText: When you're feeling stressed or anxious, what's your natural instinct?
+    answers:
+    - answerText: I need to move my body - exercise or physical activity
+      region: 0
+      score: 1
+    - answerText: I seek quiet time to reflect and process my thoughts
+      region: 1
+      score: 1
+    - answerText: I channel my emotions into creative expression
+      region: 2
+      score: 1
+    - answerText: I reach out to someone I trust for support
+      region: 3
+      score: 1
+  - questionText: How would you describe your current relationship with your physical
+      health?
+    answers:
+    - answerText: I'm actively working on improving my fitness and nutrition
+      region: 0
+      score: 1
+    - answerText: I'm more focused on mental and emotional balance
+      region: 1
+      score: 1
+    - answerText: I express myself through movement and physical creativity
+      region: 2
+      score: 1
+    - answerText: I prefer activities that involve others and build community
+      region: 3
+      score: 1
+  - questionText: What type of environment helps you feel most centered and at peace?
+    answers:
+    - answerText: Outdoor spaces with fresh air and natural movement
+      region: 0
+      score: 1
+    - answerText: Quiet, contemplative spaces for reflection
+      region: 1
+      score: 1
+    - answerText: Creative studios filled with inspiration and tools
+      region: 2
+      score: 1
+    - answerText: Warm, welcoming spaces where people gather
+      region: 3
+      score: 1
+  - questionText: How do you typically process and work through difficult emotions?
+    answers:
+    - answerText: Physical activity helps me release tension and clear my mind
+      region: 0
+      score: 1
+    - answerText: I need time alone to understand and process my feelings
+      region: 1
+      score: 1
+    - answerText: I express my emotions through art, music, or writing
+      region: 2
+      score: 1
+    - answerText: I talk through my feelings with trusted friends or family
+      region: 3
+      score: 1
+  - questionText: What motivates you most when setting personal goals?
+    answers:
+    - answerText: Achieving physical milestones and seeing tangible progress
+      region: 0
+      score: 1
+    - answerText: Personal growth and developing deeper self-awareness
+      region: 1
+      score: 1
+    - answerText: Creating something meaningful and expressing my vision
+      region: 2
+      score: 1
+    - answerText: Building connections and making a positive impact on others
+      region: 3
+      score: 1
+  - questionText: When you're feeling disconnected from yourself, what helps you
+      reconnect?
+    answers:
+    - answerText: Getting back in touch with my body through movement
+      region: 0
+      score: 1
+    - answerText: Taking time for introspection and mindfulness
+      region: 1
+      score: 1
+    - answerText: Engaging in creative activities that feel authentic
+      region: 2
+      score: 1
+    - answerText: Spending quality time with people who truly know me
+      region: 3
+      score: 1
+  - questionText: How do you prefer to celebrate your achievements and successes?
+    answers:
+    - answerText: By setting new physical challenges and pushing my limits
+      region: 0
+      score: 1
+    - answerText: Taking time to reflect on my growth and learning
+      region: 1
+      score: 1
+    - answerText: Creating something beautiful to commemorate the moment
+      region: 2
+      score: 1
+    - answerText: Sharing the joy with friends and family who supported me
+      region: 3
+      score: 1
+  - questionText: What type of learning experiences do you find most rewarding?
+    answers:
+    - answerText: Mastering physical skills and techniques
+      region: 0
+      score: 1
+    - answerText: Deepening my understanding of myself and others
+      region: 1
+      score: 1
+    - answerText: Exploring new creative mediums and artistic forms
+      region: 2
+      score: 1
+    - answerText: Collaborating with others and building relationships
+      region: 3
+      score: 1
+  - questionText: How do you typically recharge when you're feeling drained?
+    answers:
+    - answerText: Physical activity that gets my energy flowing
+      region: 0
+      score: 1
+    - answerText: Quiet time for meditation, reading, or contemplation
+      region: 1
+      score: 1
+    - answerText: Creative activities that let me express myself freely
+      region: 2
+      score: 1
+    - answerText: Meaningful conversations and quality time with loved ones
+      region: 3
+      score: 1
+  - questionText: What aspect of your life do you feel needs the most attention right
+      now?
+    answers:
+    - answerText: My physical health, fitness, and overall vitality
+      region: 0
+      score: 1
+    - answerText: My mental health, emotional balance, and inner peace
+      region: 1
+      score: 1
+    - answerText: My creative expression and artistic fulfillment
+      region: 2
+      score: 1
+    - answerText: My relationships and social connections
+      region: 3
+      score: 1
+  - questionText: When facing a challenge, what's your preferred approach?
+    answers:
+    - answerText: I tackle it head-on with physical energy and determination
+      region: 0
+      score: 1
+    - answerText: I step back to analyze and understand the situation deeply
+      region: 1
+      score: 1
+    - answerText: I approach it creatively, looking for innovative solutions
+      region: 2
+      score: 1
+    - answerText: I seek support and collaborate with others to find solutions
+      region: 3
+      score: 1
+  - questionText: How do you define success in your personal wellness journey?
+    answers:
+    - answerText: Achieving physical strength, endurance, and vitality
+      region: 0
+      score: 1
+    - answerText: Finding inner peace, clarity, and emotional resilience
+      region: 1
+      score: 1
+    - answerText: Expressing my authentic self through creative outlets
+      region: 2
+      score: 1
+    - answerText: Building meaningful relationships and supporting others
+      region: 3
+      score: 1
+  - questionText: What type of environment helps you feel most inspired and motivated?
+    answers:
+    - answerText: Spaces that encourage movement and physical activity
+      region: 0
+      score: 1
+    - answerText: Peaceful settings that promote reflection and growth
+      region: 1
+      score: 1
+    - answerText: Creative spaces filled with art, music, and inspiration
+      region: 2
+      score: 1
+    - answerText: Warm, community-oriented spaces where people connect
+      region: 3
+      score: 1
+  - questionText: How do you prefer to spend your ideal day off?
+    answers:
+    - answerText: Engaging in physical activities and outdoor adventures
+      region: 0
+      score: 1
+    - answerText: Taking time for self-reflection, reading, and personal growth
+      region: 1
+      score: 1
+    - answerText: Creating art, music, or exploring new creative pursuits
+      region: 2
+      score: 1
+    - answerText: Spending quality time with friends, family, or community
+      region: 3
+      score: 1
+  - questionText: What quality do you value most in your personal development?
+    answers:
+    - answerText: Physical strength, resilience, and bodily awareness
+      region: 0
+      score: 1
+    - answerText: Mental clarity, emotional intelligence, and self-awareness
+      region: 1
+      score: 1
+    - answerText: Creative expression, imagination, and artistic vision
+      region: 2
+      score: 1
+    - answerText: Empathy, connection, and the ability to support others
+      region: 3
+      score: 1
