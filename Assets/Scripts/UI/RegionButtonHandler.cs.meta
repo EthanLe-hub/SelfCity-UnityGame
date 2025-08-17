@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 52ef8cfa213772541900dd2efcb033b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - questManager: {instanceID: 0}
+  - modalPanel: {instanceID: 0}
+  - modalTitle: {instanceID: 0}
+  - taskListContainer: {instanceID: 0}
+  - taskItemPrefab: {fileID: 6605825438252338061, guid: 2ee3714220a3a814e8b2bd0f97a41fa9, type: 3}
+  - toDoListManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8927b2430ed9bcd49914bab705a0a1f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - questManager: {instanceID: 0}
+  - toDoListManager: {instanceID: 0}
+  - questItemPrefab: {fileID: 6605825438252338061, guid: 2ee3714220a3a814e8b2bd0f97a41fa9, type: 3}
+  - regionQuestListContainer: {instanceID: 0}
+  - dailyQuestListContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

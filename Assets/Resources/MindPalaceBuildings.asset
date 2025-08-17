@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd3304ad1d6ea6a47b63eec1e210f6f8, type: 3}
+  m_Name: MindPalaceBuildings
+  m_EditorClassIdentifier: 
+  buildings:
+  - name: Focus Fountain
+    description: Boosts concentration and clarity
+    price: 20
+  - name: Wisdom Workshop
+    description: Classes on meditation, journaling, and more
+    price: 30
+  - name: Puzzle Plaza
+    description: Brain games and logic challenges
+    price: 35
+  - name: Reflection Pavilion
+    description: Quiet spot for journaling and self-reflection
+    price: 40
+  - name: Meditation Garden
+    description: Peaceful space for mindfulness
+    price: 45
+  - name: Boundary Bridge
+    description: Visualize and reinforce healthy boundaries
+    price: 50
+  - name: Empathy Emporium
+    description: Learn about emotions and understanding others
+    price: 60
+  - name: Gratitude Gardens
+    description: Botanical blooms that grow with gratitude
+    price: 70
+  - name: Memory Museum
+    description: Celebrate your milestones and memories
+    price: 75
+  - name: Mindful Maze
+    description: Labyrinth for contemplation and focus
+    price: 80
+  - name: Therapy Center
+    description: Support for mental health and growth
+    price: 85
+  - name: Calm Cascade
+    description: Waterfall for stress relief and relaxation
+    price: 90
+  - name: Dream Dome
+    description: Imagination and lucid dreaming center
+    price: 90
+  - name: Meditation Monument
+    description: Zen garden and peaceful temple
+    price: 95
+  - name: Resilience Retreat
+    description: Build mental strength and bounce back
+    price: 100
+  - name: Inspiration Observatory
+    description: Stargazing and big-picture thinking
+    price: 105
+  - name: Therapy Tower
+    description: Safe space for professional support
+    price: 110
+  - name: Insight Library
+    description: "Expansive library of wisdom and stories\t"
+    price: 120
+  - name: Serotonin Springs
+    description: Uplifting hot springs for mood boosts
+    price: 135
+  - name: Mindfulness Monorail
+    description: Tranquil ride through calming scenery
+    price: 140

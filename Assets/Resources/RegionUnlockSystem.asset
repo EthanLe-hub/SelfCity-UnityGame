@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b41096b5d9b5ca4f92a2eeed6d8787b, type: 3}
+  m_Name: RegionUnlockSystem
+  m_EditorClassIdentifier: 
+  regions:
+  - regionType: 0
+    regionName: Health Harbor
+    isUnlocked: 0
+    buildingsRequiredToUnlock: 3
+    currentBuildingCount: 0
+    regionIcon: {fileID: 0}
+    regionColor: {r: 0.49, g: 0.85, b: 0.34, a: 1}
+  - regionType: 1
+    regionName: Mind Palace
+    isUnlocked: 0
+    buildingsRequiredToUnlock: 3
+    currentBuildingCount: 0
+    regionIcon: {fileID: 0}
+    regionColor: {r: 0.7, g: 0.62, b: 0.86, a: 1}
+  - regionType: 2
+    regionName: Creative Commons
+    isUnlocked: 0
+    buildingsRequiredToUnlock: 3
+    currentBuildingCount: 0
+    regionIcon: {fileID: 0}
+    regionColor: {r: 1, g: 0.88, b: 0.4, a: 1}
+  - regionType: 3
+    regionName: Social Square
+    isUnlocked: 0
+    buildingsRequiredToUnlock: 3
+    currentBuildingCount: 0
+    regionIcon: {fileID: 0}
+    regionColor: {r: 1, g: 0.7, b: 0.28, a: 1}
+  defaultBuildingsRequired: 3

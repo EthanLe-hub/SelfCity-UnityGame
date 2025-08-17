@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd3304ad1d6ea6a47b63eec1e210f6f8, type: 3}
+  m_Name: SocialSquareBuildings
+  m_EditorClassIdentifier: 
+  buildings:
+  - name: Kindness Kiosk
+    description: Spread positivity and encouragement
+    price: 20
+  - name: Positivity Plaza
+    description: Uplifting art and messages everywhere
+    price: 30
+  - name: Compliment Carousel
+    description: Give and receive compliments in a fun way
+    price: 35
+  - name: Coffee Corner
+    description: Chat pods for quick check-ins
+    price: 40
+  - name: Kindness Garden
+    description: Plant seeds of kindness and watch them grow
+    price: 45
+  - name: Friendship Fountain
+    description: Central gathering spot for friends
+    price: 45
+  - name: Game Arcade
+    description: Cooperative play and casual meet-ups
+    price: 50
+  - name: Pet Park
+    description: Meet up with furry friends and their owners
+    price: 60
+  - name: Empathy Exchange
+    description: Share stories and learn from others
+    price: 65
+  - name: "Connection Caf\xE9"
+    description: Meet new people and make friends
+    price: 70
+  - name: Community Center
+    description: Volunteer, help others, and connect
+    price: 80
+  - name: Social Stage
+    description: Open mic, talent shows, and group fun
+    price: 85
+  - name: Social Skate Rink
+    description: Roller skating and group activities
+    price: 90
+  - name: Volunteer Village
+    description: Spaces for helping others and giving back
+    price: 90
+  - name: Cultural Pavilion
+    description: Celebrate diverse traditions and events
+    price: 95
+  - name: Teamwork Tower
+    description: Group challenges and collaborative games
+    price: 105
+  - name: Family Fortress
+    description: Warm, inviting area for family relationships
+    price: 115
+  - name: Support Network Hub
+    description: Connect all social buildings and friends
+    price: 125
+  - name: Festival Field
+    description: Outdoor concerts and seasonal events
+    price: 135
+  - name: Celebration Square
+    description: Host parties, festivals, and milestones
+    price: 140

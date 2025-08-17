@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd3304ad1d6ea6a47b63eec1e210f6f8, type: 3}
+  m_Name: HealthHarborBuildings
+  m_EditorClassIdentifier: 
+  buildings:
+  - name: Hydration Station
+    description: Fancy water fountains and bottle refill spots
+    price: 20
+  - name: Wellness Workshop
+    description: Classes on stretching, posture, and more
+    price: 35
+  - name: Mindful Mile Path
+    description: Scenic walking path for reflection
+    price: 40
+  - name: Wellness Clinic
+    description: Basic health checkups and advice
+    price: 45
+  - name: Juice Bar
+    description: Fresh juices and smoothies for all
+    price: 50
+  - name: Yoga Studio
+    description: "Stretch, meditate, and find your center\t"
+    price: 60
+  - name: Nutrition Lab
+    description: Learn about healthy eating and try new recipes
+    price: 65
+  - name: Running Track
+    description: Outdoor track for jogging and races
+    price: 70
+  - name: Cycle Studio
+    description: Group cycling with calming visuals
+    price: 75
+  - name: Fresh Air Foundry
+    description: Lush park with walking trails and gardens
+    price: 75
+  - name: Sleep Sanctuary
+    description: Cozy nap pods and sleep education
+    price: 80
+  - name: Physical Therapy Center
+    description: Rehab and recovery for all ages
+    price: 85
+  - name: Climbing Wall Plaza
+    description: Indoor/outdoor climbing adventures
+    price: 90
+  - name: Spa Retreat
+    description: Relaxation and self-care center
+    price: 95
+  - name: Sunlight Solarium
+    description: Glass atrium for vitamin D and plant life
+    price: 100
+  - name: Movement Metro
+    description: Transit system powered by your steps
+    price: 105
+  - name: Gym
+    description: A place to work out
+    price: 110
+  - name: Adventure Obstacle Park
+    description: Ninja course for all ages
+    price: 120
+  - name: Fitness Fortress
+    description: High-tech gym with all the latest equipment
+    price: 135
+  - name: Aquatic Center
+    description: Pools, water slides, and aquatic fitness
+    price: 140

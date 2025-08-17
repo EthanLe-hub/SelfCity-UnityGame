@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd3304ad1d6ea6a47b63eec1e210f6f8, type: 3}
+  m_Name: CreativeCommonsBuildings
+  m_EditorClassIdentifier: 
+  buildings:
+  - name: Poetry Pavilion
+    description: Share and perform poetry
+    price: 20
+  - name: Writers' Loft
+    description: Collaborative writing and storytelling
+    price: 35
+  - name: Improv Island
+    description: Spontaneous theater and comedy
+    price: 40
+  - name: Animation Arcade
+    description: Create and watch your own cartoons
+    price: 45
+  - name: "Creative Caf\xE9"
+    description: Sip, sketch, and brainstorm with friends
+    price: 45
+  - name: Street Art Alley
+    description: Ever-evolving mural gallery
+    price: 55
+  - name: Style Studio
+    description: Fashion district for personal style
+    price: 60
+  - name: Design Den
+    description: Graphic design and digital art
+    price: 65
+  - name: Color Splash Park
+    description: Interactive paint and color play
+    price: 70
+  - name: Expression Exhibit
+    description: Museum of your creative journey
+    price: 70
+  - name: Makerspace Market
+    description: DIY crafts, 3D printing, and invention
+    price: 80
+  - name: Sculpture Studio
+    description: Hands-on clay, wood, and metalwork
+    price: 85
+  - name: Fashion Runway
+    description: Host your own fashion shows
+    price: 90
+  - name: Music Monument
+    description: Concert hall and recording studio
+    price: 95
+  - name: Film Festival Plaza
+    description: Outdoor movie screenings and film contests
+    price: 100
+  - name: Art Amphitheater
+    description: Performance venue for music, dance, and more
+    price: 105
+  - name: Dream Lab
+    description: Invent, tinker, and bring ideas to life
+    price: 110
+  - name: Inspiration Tower
+    description: "Panoramic views and creative brainstorming\t"
+    price: 120
+  - name: Innovation Incubator
+    description: Tech hub for learning new skills
+    price: 135
+  - name: Game Dev Garage
+    description: Build and test your own video games
+    price: 140
